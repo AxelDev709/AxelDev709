@@ -24,6 +24,8 @@ Soy un desarrollador web especializado en la creación de sitios y aplicaciones 
 ![Git](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Git](https://cdn.svgator.com/assets/landing-pages/svg-to-gif/f6/animated-cute-3d-star.gif)
+
 
 
 ---
