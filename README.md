@@ -3,7 +3,8 @@
 ### 🚀 Desarrollador Web | Apasionado por la tecnología y la programación
 
 Soy un desarrollador web especializado en la creación de sitios y aplicaciones modernas, optimizadas y escalables. Me encanta aprender nuevas tecnologías y aplicar buenas prácticas en el desarrollo de software.
-![Git](https://cdn.svgator.com/assets/landing-pages/svg-to-gif/f6/animated-cute-3d-star.gif)
+<br>
+https://cdn.svgator.com/assets/landing-pages/svg-to-gif/f6/animated-cute-3d-star.gif
 ---
 
 ### 🛠️ Tecnologías y herramientas
