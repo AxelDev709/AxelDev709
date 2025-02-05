@@ -25,21 +25,5 @@ Soy un desarrollador web especializado en la creación de sitios y aplicaciones 
 - 🤝 Abierto a colaborar en proyectos innovadores
 
 ---
-
-### 📈 Estadísticas de GitHub
-
-![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelSalinasTecoapa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelSalinasTecoapa&layout=compact&theme=radical)
-
----
-
-### 📫 Conéctate conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-
----
-
 ⭐ **¡No olvides explorar mis repositorios y seguirme!** 🚀
 
